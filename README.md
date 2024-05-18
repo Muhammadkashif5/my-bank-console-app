@@ -1,0 +1,2 @@
+# My-Bank Console App
+This TypeScript project lets you explore OOP by simulating a bank with 3 pre-defined accounts (1000, 1001, 1002). Enter your account number and manage finances through deposit, withdraw, check balance, or exit options. Discover OOP concepts while building a fun and interactive banking experience! 
